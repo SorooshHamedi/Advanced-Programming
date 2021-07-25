@@ -1,0 +1,9 @@
+start_day 1/1/1
+bountiful bliss 
+approve
+
+start_day 2/2/2
+active accepted calm
+start_day 2/3/3
+agree adventure brave
+show_the_best_day
